@@ -1,0 +1,4 @@
+A special thanks to Zeeshanahmad4 for creating the "py1.py" and "py2.py" files. 
+Links:
+https://github.com/Zeeshanahmad4/Markting-bots-sending-bulk-messages
+https://github.com/Zeeshanahmad4
